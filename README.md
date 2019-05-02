@@ -1,4 +1,4 @@
 #### ACD
 
-* Trabalho 1
-* Regressão Logistica e Multinomial em R
+* Trabalho 3
+* Modelo Normal, Poisson e Gamma em R
